@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fefepizz
-- 👀 I’m interested in AI, cooking and many other random things
+- 👀 I’m interested in AI, 3D printing, Sim Racing, cooking and many other random things
 - 🌱 I’m currently studying Information Engineering and I hope I will learn some more Machine Learning after my bachelor's degree 
 - ⚡ Fun fact: If engineering does't work out for me I think the best choice would be a ramen shop
 
